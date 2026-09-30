@@ -1,0 +1,61 @@
+name: Chan signal alerts
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Beijing time: 10:05, 10:35, 11:05, 11:35
+    - cron: "5,35 2,3 * * 1-5"
+    # Beijing time: 13:35, 14:05, 14:35, 15:05
+    - cron: "35 5 * * 1-5"
+    - cron: "5,35 6 * * 1-5"
+    - cron: "5 7 * * 1-5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: chan-signal-alerts
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: Asia/Shanghai
+      BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Fetch pinned official Chan.py core
+        run: |
+          git clone --filter=blob:none https://github.com/Vespa314/chan.py vendor/chanpy
+          git -C vendor/chanpy checkout 429d6ed3043e27c93a003ba2b10e70a05575e1f5
+
+      - name: Install scanner dependencies
+        run: pip install -e .
+
+      - name: Scan confirmed 30-minute Chan.py signals
+        run: |
+          python -m quanti.agent.chan_alert \
+            --watchlist config/chan-alert-watchlist.json \
+            --state .github/chan-alert-state.json
+
+      - name: Persist signal fingerprints
+        run: |
+          if git diff --quiet -- .github/chan-alert-state.json; then
+            echo "No alert state change"
+            exit 0
+          fi
+          git config user.name "quanti-alert-bot"
+          git config user.email "quanti-alert-bot@users.noreply.github.com"
+          git add .github/chan-alert-state.json
+          git commit -m "chore(alerts): update Chan signal state [skip ci]"
+          git push
