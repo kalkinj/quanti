@@ -161,7 +161,7 @@
     },
     "300235": {
       "initialized": true,
-      "last_bar": "2026-10-09T15:00:00",
+      "last_bar": "2026-10-12T15:00:00",
       "seen": [
         "d0fe773084b5b4b1dc861001",
         "e32acaffc571ed6073c5d182",
@@ -300,12 +300,13 @@
         "562543e53bb8344d9d0c2d71",
         "13b653a07a64b16927d507a4",
         "fae01ca315a90d63b6240bdb",
-        "0643e7f8895075aa1c4df0ea"
+        "0643e7f8895075aa1c4df0ea",
+        "abed4d8d5e8f8950fd31ac6c"
       ]
     },
     "300604": {
       "initialized": true,
-      "last_bar": "2026-10-09T15:00:00",
+      "last_bar": "2026-10-12T15:00:00",
       "seen": [
         "8222e2fdba4f8daff752856c",
         "7f9c7a457b08c0b1d2d455f3",
@@ -476,12 +477,17 @@
         "7dc5d346c589768455917599",
         "63ac79b0ae50071b20b7cc5c",
         "15736b7ead3667cc0a7cdfa1",
-        "85f23f88b22c8d084201cba9"
+        "85f23f88b22c8d084201cba9",
+        "b80cde3ac557162bea8fa6a1",
+        "b334fee710c336a7a2264140",
+        "c8e38a6c26273bf4c03fead1",
+        "ce75610177b63ec919cc323e",
+        "2164d92590f96f24d1f384a3"
       ]
     },
     "300648": {
       "initialized": true,
-      "last_bar": "2026-10-09T15:00:00",
+      "last_bar": "2026-10-12T15:00:00",
       "seen": [
         "9fea7e8c4834ed711ba13e24",
         "a7e168ff811a2017aa8c7ed5",
@@ -655,12 +661,13 @@
         "5e55408fa56c1eef0536b837",
         "750d40d522d2c6521b72bf5d",
         "a30d67fac70261f966fcc728",
-        "aa7ee7e6f53a83a7b387d753"
+        "aa7ee7e6f53a83a7b387d753",
+        "b28e98ff8d9cbc00645633d1"
       ]
     },
     "300790": {
       "initialized": true,
-      "last_bar": "2026-10-09T15:00:00",
+      "last_bar": "2026-10-12T15:00:00",
       "seen": [
         "d2f55690e044e191aee24a09",
         "a3d9000e69b8247fdaae590b",
@@ -807,12 +814,17 @@
         "ca7d1144406348f2db248c21",
         "db8763a3873a4d9aa09235e5",
         "3717728f5182ffd357eaf532",
-        "61de39d19eefc6d1b228ac5f"
+        "61de39d19eefc6d1b228ac5f",
+        "29e4ee420b86118b84db60f2",
+        "7f7063eb9d3e4f00577306fa",
+        "7442ed6a6c38f948241460c9",
+        "a192e64c8b4b50a539c7d1cb",
+        "cb9bfaa65fc8641d51c90a3e"
       ]
     },
     "600255": {
       "initialized": true,
-      "last_bar": "2026-10-09T15:00:00",
+      "last_bar": "2026-10-12T15:00:00",
       "seen": [
         "ad3e72c14c8a608cb2fb2055",
         "0a55349412d859cd018b31df",
@@ -922,6 +934,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-09T22:18:34.038915+08:00",
+  "updated_at": "2026-10-12T17:05:09.539021+08:00",
   "version": 1
 }
