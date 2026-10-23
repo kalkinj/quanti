@@ -3,7 +3,7 @@
   "stocks": {
     "300077": {
       "initialized": true,
-      "last_bar": "2026-10-22T15:00:00",
+      "last_bar": "2026-10-23T15:00:00",
       "seen": [
         "58656c5cdc095f6f9a349f52",
         "2914962d0700728469c13ed4",
@@ -164,12 +164,13 @@
         "7329a115cb4d96d923562089",
         "27b1a30a539f7ebb3b505e1b",
         "aa97cd34409ee3e780375ee8",
-        "48d8aaaef4fa47fc4d01c856"
+        "48d8aaaef4fa47fc4d01c856",
+        "cfe670b57d67c96b10ab2564"
       ]
     },
     "300235": {
       "initialized": true,
-      "last_bar": "2026-10-22T15:00:00",
+      "last_bar": "2026-10-23T15:00:00",
       "seen": [
         "d0fe773084b5b4b1dc861001",
         "e32acaffc571ed6073c5d182",
@@ -350,12 +351,13 @@
         "5801dcdfcd2681f3770c0c84",
         "6c04f2ebe553b3adb6e94753",
         "a7af009def9b2950cf31b9da",
-        "9bfb3c34f31569c9b7374d0a"
+        "9bfb3c34f31569c9b7374d0a",
+        "b471bb8c7bec219a51b91fda"
       ]
     },
     "300604": {
       "initialized": true,
-      "last_bar": "2026-10-22T15:00:00",
+      "last_bar": "2026-10-23T15:00:00",
       "seen": [
         "8222e2fdba4f8daff752856c",
         "7f9c7a457b08c0b1d2d455f3",
@@ -543,12 +545,13 @@
         "a5393b45fc89219f3a0ef042",
         "fe571e22a7ce6daf6127079e",
         "0572e672599a908ebf2ea7cc",
-        "00e2daac69f8b3380b37d88c"
+        "00e2daac69f8b3380b37d88c",
+        "b22f39885696865ec1b7027f"
       ]
     },
     "300648": {
       "initialized": true,
-      "last_bar": "2026-10-22T15:00:00",
+      "last_bar": "2026-10-23T15:00:00",
       "seen": [
         "9fea7e8c4834ed711ba13e24",
         "a7e168ff811a2017aa8c7ed5",
@@ -733,12 +736,13 @@
         "ba406141f772f445d7890435",
         "b4e6d5edea398c9ba340d447",
         "cb90391b622e152bdb76cb61",
-        "87de6222e303167d67fac535"
+        "87de6222e303167d67fac535",
+        "9a27064c4e433e00238189dc"
       ]
     },
     "300790": {
       "initialized": true,
-      "last_bar": "2026-10-22T15:00:00",
+      "last_bar": "2026-10-23T15:00:00",
       "seen": [
         "d2f55690e044e191aee24a09",
         "a3d9000e69b8247fdaae590b",
@@ -898,12 +902,13 @@
         "6fb364565569118037430e04",
         "602e09c9e62ffdd4ff9c056d",
         "da92a565f1fe382f642a7b23",
-        "c9558822c0f75631d46bbc96"
+        "c9558822c0f75631d46bbc96",
+        "8cc5bb32c00c6bafd7762d58"
       ]
     },
     "600255": {
       "initialized": true,
-      "last_bar": "2026-10-22T15:00:00",
+      "last_bar": "2026-10-23T15:00:00",
       "seen": [
         "ad3e72c14c8a608cb2fb2055",
         "0a55349412d859cd018b31df",
@@ -1028,10 +1033,11 @@
         "0eafe72972717ed814cc2f1d",
         "06328979124343b4f7086e1e",
         "cbd5eff29c509f3820410077",
-        "a79ed14635562b5b1a505ffc"
+        "a79ed14635562b5b1a505ffc",
+        "af143c99e850d7b857d0ae1c"
       ]
     }
   },
-  "updated_at": "2026-10-23T15:23:31.793945+08:00",
+  "updated_at": "2026-10-23T18:28:21.601066+08:00",
   "version": 1
 }
