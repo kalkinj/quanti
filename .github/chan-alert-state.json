@@ -3,7 +3,7 @@
   "stocks": {
     "300077": {
       "initialized": true,
-      "last_bar": "2026-10-26T15:00:00",
+      "last_bar": "2026-10-27T15:00:00",
       "seen": [
         "58656c5cdc095f6f9a349f52",
         "2914962d0700728469c13ed4",
@@ -165,12 +165,13 @@
         "27b1a30a539f7ebb3b505e1b",
         "aa97cd34409ee3e780375ee8",
         "48d8aaaef4fa47fc4d01c856",
-        "cfe670b57d67c96b10ab2564"
+        "cfe670b57d67c96b10ab2564",
+        "34283c39129f89a3423720c1"
       ]
     },
     "300235": {
       "initialized": true,
-      "last_bar": "2026-10-26T15:00:00",
+      "last_bar": "2026-10-27T15:00:00",
       "seen": [
         "d0fe773084b5b4b1dc861001",
         "e32acaffc571ed6073c5d182",
@@ -358,7 +359,7 @@
     },
     "300604": {
       "initialized": true,
-      "last_bar": "2026-10-26T15:00:00",
+      "last_bar": "2026-10-27T15:00:00",
       "seen": [
         "8222e2fdba4f8daff752856c",
         "7f9c7a457b08c0b1d2d455f3",
@@ -548,12 +549,13 @@
         "0572e672599a908ebf2ea7cc",
         "00e2daac69f8b3380b37d88c",
         "b22f39885696865ec1b7027f",
-        "bfe3e56c938fa3f58babfd2b"
+        "bfe3e56c938fa3f58babfd2b",
+        "675342321a78963f863c153f"
       ]
     },
     "300648": {
       "initialized": true,
-      "last_bar": "2026-10-26T15:00:00",
+      "last_bar": "2026-10-27T15:00:00",
       "seen": [
         "9fea7e8c4834ed711ba13e24",
         "a7e168ff811a2017aa8c7ed5",
@@ -739,12 +741,20 @@
         "b4e6d5edea398c9ba340d447",
         "cb90391b622e152bdb76cb61",
         "87de6222e303167d67fac535",
-        "9a27064c4e433e00238189dc"
+        "9a27064c4e433e00238189dc",
+        "86c288c3010945bfe8a9a178",
+        "419b94d71268261312982588",
+        "bf9d1eaa177078183cc0b412",
+        "6711594c4aaa3a7b64579bc5",
+        "7bd4033b6395bfba1c1f0537",
+        "d966a972ac48c07d4fa8ab33",
+        "def515034cd1753b89e74194",
+        "9fbaff1a7e3cc55b30906968"
       ]
     },
     "300790": {
       "initialized": true,
-      "last_bar": "2026-10-26T15:00:00",
+      "last_bar": "2026-10-27T15:00:00",
       "seen": [
         "d2f55690e044e191aee24a09",
         "a3d9000e69b8247fdaae590b",
@@ -910,7 +920,7 @@
     },
     "600255": {
       "initialized": true,
-      "last_bar": "2026-10-26T15:00:00",
+      "last_bar": "2026-10-27T15:00:00",
       "seen": [
         "ad3e72c14c8a608cb2fb2055",
         "0a55349412d859cd018b31df",
@@ -1036,10 +1046,27 @@
         "06328979124343b4f7086e1e",
         "cbd5eff29c509f3820410077",
         "a79ed14635562b5b1a505ffc",
-        "af143c99e850d7b857d0ae1c"
+        "af143c99e850d7b857d0ae1c",
+        "a55bc17fac9dafffa9367b96",
+        "1ae572cce19e5d4b2c075130",
+        "955f7d8444958159f8d6f671",
+        "bd3f28f192e27b078dea85bb",
+        "8b985f327ceca51fe9e3c5ea",
+        "9fbe083849c9aeec7001ca21",
+        "e53dcb777f5b25382baa112d",
+        "869ed873f48b278c41037613",
+        "ddf7d62da39d031a86454549",
+        "beb3683784c07d880d668722",
+        "b2dda7e3e6c612df69c80b6b",
+        "bf9a2b5da4f731a2e06d0ed0",
+        "b4b26574a079c8f0a8106d33",
+        "7f56f1e7fba6b087caa1c7f0",
+        "946c53ada7a2928daea25fa0",
+        "72675d8f103503e89accaf4d",
+        "3acfc71d6d4fb1ebbb804002"
       ]
     }
   },
-  "updated_at": "2026-10-27T15:43:00.764456+08:00",
+  "updated_at": "2026-10-27T18:54:30.351923+08:00",
   "version": 1
 }
