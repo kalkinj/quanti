@@ -3,7 +3,7 @@
   "stocks": {
     "300077": {
       "initialized": true,
-      "last_bar": "2026-11-03T15:00:00",
+      "last_bar": "2026-11-04T15:00:00",
       "seen": [
         "58656c5cdc095f6f9a349f52",
         "2914962d0700728469c13ed4",
@@ -181,7 +181,7 @@
     },
     "300235": {
       "initialized": true,
-      "last_bar": "2026-11-03T15:00:00",
+      "last_bar": "2026-11-04T15:00:00",
       "seen": [
         "d0fe773084b5b4b1dc861001",
         "e32acaffc571ed6073c5d182",
@@ -369,7 +369,8 @@
         "9febd78c7611f0fd06d87bf9",
         "3206268dd77c1cf29ce09be5",
         "13c0dfd49ae84383e1d471fb",
-        "f663d8a9b53371d2f41d29ad"
+        "f663d8a9b53371d2f41d29ad",
+        "1a459c392b0fcc85c9334ce1"
       ]
     },
     "300604": {
@@ -588,7 +589,7 @@
     },
     "300648": {
       "initialized": true,
-      "last_bar": "2026-11-03T15:00:00",
+      "last_bar": "2026-11-04T15:00:00",
       "seen": [
         "9fea7e8c4834ed711ba13e24",
         "a7e168ff811a2017aa8c7ed5",
@@ -788,12 +789,13 @@
         "d6b419ad95f98f7f94ce6eb5",
         "8567760e6b76289beb2cc543",
         "35da07eca1abe4ca3fc189b4",
-        "dfe48971d0dfffb300c305ad"
+        "dfe48971d0dfffb300c305ad",
+        "903cbf473077b8f779d3a4f4"
       ]
     },
     "300790": {
       "initialized": true,
-      "last_bar": "2026-11-03T15:00:00",
+      "last_bar": "2026-11-04T15:00:00",
       "seen": [
         "d2f55690e044e191aee24a09",
         "a3d9000e69b8247fdaae590b",
@@ -957,12 +959,15 @@
         "8cc5bb32c00c6bafd7762d58",
         "f767d26f9adc5be01c586823",
         "8a9783afc9eb540524916ec4",
-        "c985a88714d9de69c78edab3"
+        "c985a88714d9de69c78edab3",
+        "9622c82135e3b5ed55f160ed",
+        "64a85a37e77d4a561ca135f2",
+        "47ec2c1958a7583f12fecec6"
       ]
     },
     "600255": {
       "initialized": true,
-      "last_bar": "2026-11-03T15:00:00",
+      "last_bar": "2026-11-04T15:00:00",
       "seen": [
         "ad3e72c14c8a608cb2fb2055",
         "0a55349412d859cd018b31df",
@@ -1107,10 +1112,32 @@
         "72675d8f103503e89accaf4d",
         "3acfc71d6d4fb1ebbb804002",
         "9dec2f05495637f0e2b8c5bb",
-        "954e135b2d0b0a350eb7e7bc"
+        "954e135b2d0b0a350eb7e7bc",
+        "7ebc426b3e8f1dc5570c1671",
+        "9fb26bd21954ee7ee31289d6",
+        "849a4a5db01702f8f2ce2211",
+        "6bb80c70fcb820f01a72ca48",
+        "bff7613dcde4b06aec4e23f9",
+        "755ca0d43fd576440c0793c9",
+        "a273e4c8c69bb51852e8df30",
+        "cc09728a91b0835fdcd2bfc6",
+        "957ef8a687b2fca59a0144ce",
+        "c7c585cc915d9612d2bc5b10",
+        "eca7dfe8fa5397ee2bb2020d",
+        "9687662ee044ab648163ded6",
+        "fb67b24b40442c7e2e54d217",
+        "65f0e41fa5f1ded76839af8b",
+        "161d34df1eab232b28612751",
+        "ca4aa4ab5d96cafe0ee307de",
+        "8d074a1959b3ea85127085d7",
+        "9de202d9ef51aa813e7b9bba",
+        "86c1d28307328b2816874640",
+        "6f113d9d5feaeefa8fc33443",
+        "0053339c8c7d8a65cd955467",
+        "17c8b10bc85ad5b3e71515a1"
       ]
     }
   },
-  "updated_at": "2026-11-03T22:59:12.417048+08:00",
+  "updated_at": "2026-11-04T17:01:44.512841+08:00",
   "version": 1
 }
